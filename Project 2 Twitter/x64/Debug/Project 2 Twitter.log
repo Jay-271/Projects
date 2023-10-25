@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(210,25): error C2440: 'initializing': cannot convert from 'char [100]' to 'char'
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(210,25): message : There is no context in which this conversion is possible
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(212,6): error C2664: 'int addTweet(Tweet [],int &,const char [])': cannot convert argument 2 from 'Tweet' to 'int &'
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(95,5): message : see declaration of 'addTweet'
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(212,6): message : while trying to match the argument list '(Tweet [], Tweet, int)'
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(285,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'Tweet'
+C:\Users\Jay\source\repos\Project 2 Twitter\Source.cpp(285,16): message : No constructor could take the source type, or constructor overload resolution was ambiguous

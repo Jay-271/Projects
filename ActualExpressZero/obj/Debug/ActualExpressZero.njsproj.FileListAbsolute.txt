@@ -1,0 +1,3 @@
+C:\Users\Jay\source\repos\ActualExpressZero\obj\Debug\ActualExpressZero.njsproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\ActualExpressZero\obj\Debug\ActualExpressZero.njsproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\ActualExpressZero\bin\Microsoft.NodejsTools.WebRole.dll
